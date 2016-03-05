@@ -1,0 +1,13 @@
+2016-03-05 13:54:42.100730: Mac OSX
+2016-03-05 13:54:50.051211: Element by id = 'Button_57' not found.
+2016-03-05 13:54:52.256554: Element by id = 'Continue_to_Practice_Email' not found.
+2016-03-05 13:54:53.749567: Element by id = 'Continue_to_Practice_Email' not found.
+2016-03-05 13:54:54.767415: Element by id = 'Continue_to_Practice_Email' not found.
+2016-03-05 13:54:55.783971: Element by id = 'Continue_to_Practice_Email' not found.
+2016-03-05 13:54:56.792041: Element by id = 'Continue_to_Practice_Email' not found.
+2016-03-05 13:54:57.810682: Element by id = 'Continue_to_Practice_Email' not found.
+2016-03-05 13:54:58.818850: Element by id = 'Continue_to_Practice_Email' not found.
+2016-03-05 13:54:59.840468: Element by id = 'Continue_to_Practice_Email' not found.
+2016-03-05 13:55:00.855565: Element by id = 'Continue_to_Practice_Email' not found.
+2016-03-05 13:55:01.871583: Element by id = 'Continue_to_Practice_Email' not found.
+2016-03-05 13:55:02.886573: Element by id = 'Continue_to_Practice_Email' not found.
